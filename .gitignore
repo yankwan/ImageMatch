@@ -1,0 +1,12 @@
+*.class
+
+# eclipse file
+.classpath
+.project
+.idea/
+.settings/
+
+
+# file image
+*.jpeg
+*.jpg
